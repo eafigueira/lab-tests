@@ -68,7 +68,5 @@ public class PersonController {
                 .build();
         return ResponseEntity.ok(result);
     }
-
-
 }
 
